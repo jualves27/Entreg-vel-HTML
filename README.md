@@ -130,12 +130,8 @@ Estrutura base e formulário de inscrição de um mini vlog de receitas culinár
     <footer>
         <p>&copy; 2026 Cantinho do Canteiro. Todos os direitos reservados.</p>
     </footer>
-
 </body>
 </html>
-
-
-
 
 /* ==========================================================================
    Configurações Gerais e Variáveis
