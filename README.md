@@ -10,7 +10,7 @@ Estrutura base e formulário de inscrição de um mini vlog de receitas culinár
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Título do Site</title>
 
-    <!-- ESTA É A LINHA QUE CONECTA O CSS: -->
+    <!-- CSS: -->
     <link rel="stylesheet" href="style.css">
 
 </head>
